@@ -520,7 +520,7 @@ Build an executive dashboard using:
 
 # Expected Outcomes
 
-By the end of this roadmap, you should be able to:
+By the end of this roadmap, you should be able to do the following in the respective areas:
 
 ## Data Science
 
@@ -555,23 +555,3 @@ By the end of this roadmap, you should be able to:
 * Communicate insights effectively
 
 ---
-
-# Portfolio Goal
-
-Complete at least **3–5 portfolio projects**:
-
-* Exploratory Data Analysis Project
-* Dashboard Project
-* Regression Project
-* Classification Project
-* Clustering Project
-
-Host all projects on GitHub with:
-
-* README documentation
-* Clean code
-* Visualizations
-* Business insights
-* Reproducible workflows
-
-This portfolio will provide a strong foundation for internships, freelance work, junior analyst roles, and entry-level data science positions.

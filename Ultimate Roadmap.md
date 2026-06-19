@@ -1,167 +1,577 @@
-# DATA SCIENCE
+# Data Science & Data Analysis Learning Roadmap (4 Weeks)
+
+A structured 4-week roadmap for learning **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Data Analysis** using free and accessible resources.
+
+---
+
+# Table of Contents
+
+* [Data Science](#data-science)
+
+  * [Mobile Users](#mobile-users)
+  * [Laptop/Desktop Users](#laptopdesktop-users)
+* [Deep Learning](#deep-learning)
+* [Computer Vision](#computer-vision)
+* [Advanced Data Scientist Track](#advanced-data-scientist-track)
+* [Data Analysis](#data-analysis)
+* [Expected Outcomes](#expected-outcomes)
+
+---
+
+# Data Science
+
 ## Mobile Users
 
 ### Sandbox Environments
-Practice your code using these browser based platforms:
-<ul>
-  <li><a href="https://app.datacamp.com/sandbox">DataCamp Sandbox</a></li>
-  <li><a href="https://colab.research.google.com/">Google Colab</a></li>
-  <li><a href="https://www.kaggle.com/code">Kaggle</a></li>
-  <li><a href="https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html">JupyterLite</a></li>
-</ul>
 
-<hr>
+Use any of the following browser-based environments to practice:
 
-### Resource Content: https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
-#### Level: Beginner 
-<strong>Track Description:</strong> Learn data science in Python, from data manipulation to machine learning. This track provides the skills needed to succeed as a data scientist!
-<ul>
-  <li>Introduction to Python</li>
-  <li>Intermediate Python</li>
-  <li>Data Manipulation with pandas</li>
-  <li>Joining Data with pandas</li>
-  <li>Introduction to Statistics in Python</li>
-  <li>Introduction to Data Visualization with Matplotlib</li>
-  <li>Introduction to Data Visualization with Seaborn</li>
-  <li>Introduction to Functions in Python</li>
-  <li>Python Toolbox</li>
-  <li>Exploratory Data Analysis in Python</li>
-  <li>Working with Categorical Data in Python</li>
-  <li>Data Communication Concepts</li>
-  <li>Introduction to Importing Data in Python</li>
-  <li>Cleaning Data in Python</li>
-  <li>Working with Dates and Times in Python</li>
-  <li>Writing Functions in Python</li>
-  <li>Introduction to Regression with statsmodels in Python</li>
-  <li>Sampling in Python</li>
-  <li>Hypothesis Testing in Python</li>
-  <li>Experimental Design in Python</li>
-  <li>Supervised Learning with scikit learn</li>
-  <li>Unsupervised Learning in Python</li>
-  <li>Machine Learning with Tree Based Models in Python</li>
-</ul>
+* DataCamp Sandbox: https://app.datacamp.com/sandbox
+* Google Colab: https://colab.research.google.com/
+* Kaggle Code: https://www.kaggle.com/code
+* JupyterLite: https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
 
-<hr>
+### Resource
 
-## Laptop/Desktop Users
+**Associate Data Scientist in Python (Beginner)**
 
-### Resource Content: https://www.wqu.edu/data-science-lab
-#### Level: Beginner
-<ul>
-  <li>Explore, Clean, and Visualize Real World Data</li>
-  <li>Train and Regularize Regression Models</li>
-  <li>Analyze and Forecast Time Series Data</li>
-  <li>Classify Outcomes and Interpret Results</li>
-  <li>Apply Ensemble Methods to Imbalanced Problems</li>
-  <li>Segment Customers with Clustering Algorithms</li>
-  <li>Design Experiments and Build Interactive Dashboards</li>
-  <li>Deploy Reproducible End to End Data Science Systems</li>
-</ul>
+https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python
 
-<hr>
+---
 
-### Resource Content: https://www.wqu.edu/deep-learning-lab
-#### Level: Intermediate
-<ul>
-  <li>Synthesize Core Deep Learning Concepts</li>
-  <li>Identify Deep Learning Applications Across Domains</li>
-  <li>Execute Complete Neural Network Training Workflows</li>
-  <li>Construct and Modify CNN Architectures</li>
-  <li>Diagnose and Optimize Training Challenges</li>
-  <li>Measure and Compare Model Performance</li>
-  <li>Implement Smart Imputation Strategies</li>
-  <li>Design Robust Data Filters</li>
-  <li>Extract Complex Features</li>
-  <li>Assess Data Quality Systematically</li>
-  <li>Perform Sensitivity Analysis</li>
-  <li>Handle Complex Missing Patterns</li>
-  <li>Create Reproducible Pipelines</li>
-  <li>Prepare Analysis Ready Datasets</li>
-</ul>
+## Week 1: Python Foundations
 
-<hr>
+### Topics
 
-### Resource Content: https://www.wqu.edu/computer-vision-lab
-#### Level: Advanced / CV Specialization
-<ul>
-  <li>Map Challenges and Tasks</li>
-  <li>Dataset Preparation</li>
-  <li>Execute Complete Neural Network Training Workflows</li>
-  <li>Neural Networks</li>
-  <li>Model Building</li>
-  <li>Model Deployment</li>
-  <li>Debugging</li>
-  <li>AI Ethics</li>
-  <li>Community of Practice</li>
-</ul>
+* Introduction to Python
+* Intermediate Python
+* Introduction to Functions in Python
+* Python Toolbox
+* Writing Functions in Python
 
-<hr>
+### Practice
 
-### Resource Content: https://app.datacamp.com/learn/career-tracks/data-scientist-in-python
-#### Level: Advanced
-<strong>Track Description:</strong> Learn data science in Python, from data manipulation to machine learning, and gain the skills needed for the Data Scientist in Python certification!
-<strong>Prerequisites:</strong> Maximize your success on this track by mastering the skills in the Associate Data Scientist in Python track.
-<ul>
-  <li>Intermediate Importing Data in Python</li>
-  <li>Preprocessing for Machine Learning in Python</li>
-  <li>Developing Python Packages</li>
-  <li>Machine Learning for Business</li>
-  <li>Introduction to SQL</li>
-  <li>Intermediate SQL</li>
-  <li>Joining Data in SQL</li>
-  <li>Introduction to Git</li>
-  <li>Intermediate Git</li>
-</ul>
+* Variables and data types
+* Lists and dictionaries
+* Loops and conditionals
+* Functions and modules
 
-<hr>
+### Mini Project
 
-# DATA ANALYSIS
-## Laptop/Desktop Users
+* Student Grade Calculator
+* Expense Tracker
+* BMI Calculator
 
-### Resource Content: https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup#
-#### Level: Beginner
-<strong>Course Description:</strong> Here is what makes this data analytics free course different. We do not just throw theory at you. SkillUP designed this program to get you hands on with real analytics concepts from day one. You will work through data collection, cleaning, and analysis. The goal is simple: help you extract insights that actually matter. Whether you are a business analyst trying to level up, a manager who needs to understand your teams reports, or a CXO making strategic calls, this course meets you where you are.
-<ul>
-  <li>Getting Started with Analytics</li>
-  <li>The Four Types of Analytics</li>
-  <li>Visualization Techniques That Work</li>
-  <li>Data Science Foundations</li>
-  <li>How Organizations Actually Use Analytics</li>
-  <li>What is Happening Now</li>
-</ul>
+---
 
-<hr>
+## Week 2: Data Manipulation & Visualization
 
-### Resource Content: https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql
-#### Level: Beginner
-<strong>Track Description:</strong> Gain the SQL skills you need to query a database, analyze the results, and become a SQL proficient Data Analyst. No prior coding experience required!
-<ul>
-  <li>Introduction to SQL</li>
-  <li>Intermediate SQL</li>
-  <li>Joining Data in SQL</li>
-  <li>Data Manipulation in SQL</li>
-  <li>PostgreSQL Summary Stats and Window Functions</li>
-  <li>Functions for Manipulating Data in PostgreSQL</li>
-  <li>Introduction to Statistics</li>
-  <li>Exploratory Data Analysis in SQL</li>
-  <li>Data Driven Decision Making in SQL</li>
-  <li>Understanding Data Visualization</li>
-  <li>Data Communication Concepts</li>
-</ul>
+### Topics
 
-<hr>
+* Data Manipulation with pandas
+* Joining Data with pandas
+* Introduction to Importing Data in Python
+* Cleaning Data in Python
+* Introduction to Data Visualization with Matplotlib
+* Introduction to Data Visualization with Seaborn
 
-### Resource Content: https://www.simplilearn.com/free-data-analyst-course-skillup#
-#### Level: Beginner
-<strong>Course Description:</strong> Here is what you are getting into: six hours of video lessons that walk you through the actual tools data analysts use every day. You will start with Excel basics, then move into Python for analysis, and finish by building real dashboards in Tableau and Power BI. Everything builds on what came before, so you are not jumping around confused. By the end, you will have the confidence to open a dataset and know exactly where to start.
-<ul>
-  <li>Excel for Data Analysis</li>
-  <li>Data Collection and Handling</li>
-  <li>Python for Data Analysis</li>
-  <li>Tableau Workspace</li>
-  <li>Graphs and Charts</li>
-  <li>Maps in Tableau</li>
-  <li>Data Handling in Power BI</li>
-  <li>Dashboarding in Power BI</li>
-  <li>Charts and Histograms</li>
-</ul>
+### Practice
+
+* Loading CSV files
+* Cleaning missing data
+* Merging datasets
+* Creating charts and visualizations
+
+### Mini Project
+
+* Sales Data Analysis
+* Population Trends Dashboard
+* COVID Dataset Exploration
+
+---
+
+## Week 3: Statistics & Data Analysis
+
+### Topics
+
+* Introduction to Statistics in Python
+* Exploratory Data Analysis in Python
+* Working with Categorical Data
+* Working with Dates and Times
+* Sampling in Python
+* Hypothesis Testing
+* Experimental Design
+* Data Communication Concepts
+
+### Practice
+
+* Summary statistics
+* Correlation analysis
+* Sampling methods
+* A/B testing fundamentals
+
+### Mini Project
+
+* Customer Survey Analysis
+* Product Review Insights
+* Marketing Campaign Evaluation
+
+---
+
+## Week 4: Machine Learning
+
+### Topics
+
+* Introduction to Regression with statsmodels
+* Supervised Learning with scikit-learn
+* Unsupervised Learning in Python
+* Tree-Based Models
+
+### Practice
+
+* Linear Regression
+* Classification Models
+* Clustering
+* Decision Trees
+* Random Forests
+
+### Capstone Project
+
+Choose one:
+
+* House Price Prediction
+* Customer Churn Prediction
+* Loan Approval Prediction
+* Employee Attrition Prediction
+
+---
+
+# Laptop/Desktop Users
+
+## Resource
+
+### WQU Data Science Lab (Beginner)
+
+https://www.wqu.edu/data-science-lab
+
+---
+
+## Week 1: Explore & Prepare Data
+
+### Topics
+
+* Explore Real-World Data
+* Clean Data
+* Visualize Data
+* Exploratory Data Analysis
+
+### Project
+
+* Analyze a Kaggle dataset
+
+---
+
+## Week 2: Regression & Forecasting
+
+### Topics
+
+* Regression Models
+* Regularization
+* Time Series Analysis
+* Forecasting
+
+### Project
+
+* Monthly Sales Forecasting
+
+---
+
+## Week 3: Classification & Clustering
+
+### Topics
+
+* Classification Models
+* Ensemble Methods
+* Customer Segmentation
+* Clustering Algorithms
+
+### Project
+
+* Customer Segmentation System
+
+---
+
+## Week 4: Dashboards & Deployment
+
+### Topics
+
+* Experimental Design
+* Interactive Dashboards
+* Reproducible Systems
+* End-to-End Data Science Workflows
+
+### Project
+
+* Interactive Business Dashboard
+
+---
+
+# Deep Learning
+
+## Resource
+
+### WQU Deep Learning Lab (Intermediate)
+
+https://www.wqu.edu/deep-learning-lab
+
+---
+
+## Week 1: Deep Learning Fundamentals
+
+### Topics
+
+* Core Deep Learning Concepts
+* Neural Networks
+* Deep Learning Applications
+
+### Project
+
+* Handwritten Digit Recognition
+
+---
+
+## Week 2: Training Neural Networks
+
+### Topics
+
+* Neural Network Training Workflows
+* Performance Measurement
+* Model Comparison
+
+### Project
+
+* Image Classification Model
+
+---
+
+## Week 3: Data Quality & Feature Engineering
+
+### Topics
+
+* Smart Imputation
+* Data Filtering
+* Feature Extraction
+* Data Quality Assessment
+
+### Project
+
+* Data Preprocessing Pipeline
+
+---
+
+## Week 4: Reproducible Deep Learning
+
+### Topics
+
+* Sensitivity Analysis
+* Missing Data Handling
+* Dataset Preparation
+* Reproducible Workflows
+
+### Project
+
+* End-to-End Deep Learning Pipeline
+
+---
+
+# Computer Vision
+
+## Resource
+
+### WQU Computer Vision Lab (Advanced)
+
+https://www.wqu.edu/computer-vision-lab
+
+---
+
+## Week 1: Computer Vision Foundations
+
+### Topics
+
+* Computer Vision Challenges
+* Dataset Preparation
+* AI Ethics
+
+### Project
+
+* Image Dataset Exploration
+
+---
+
+## Week 2: CNN Fundamentals
+
+### Topics
+
+* Convolutional Neural Networks
+* Model Building
+* Training Workflows
+
+### Project
+
+* Cats vs Dogs Classifier
+
+---
+
+## Week 3: Advanced Computer Vision
+
+### Topics
+
+* Model Optimization
+* Debugging Techniques
+* Performance Improvements
+
+### Project
+
+* Object Detection Prototype
+
+---
+
+## Week 4: Deployment
+
+### Topics
+
+* Model Deployment
+* Production Considerations
+* Community of Practice
+
+### Project
+
+* Deploy a Computer Vision Application
+
+---
+
+# Advanced Data Scientist Track
+
+## Resource
+
+### Data Scientist in Python
+
+https://app.datacamp.com/learn/career-tracks/data-scientist-in-python
+
+**Prerequisite:** Associate Data Scientist in Python
+
+---
+
+## Week 1
+
+### Topics
+
+* Intermediate Importing Data in Python
+* Preprocessing for Machine Learning
+
+---
+
+## Week 2
+
+### Topics
+
+* Introduction to SQL
+* Intermediate SQL
+
+---
+
+## Week 3
+
+### Topics
+
+* Joining Data in SQL
+* Machine Learning for Business
+
+---
+
+## Week 4
+
+### Topics
+
+* Introduction to Git
+* Intermediate Git
+* Developing Python Packages
+
+### Capstone Project
+
+Build an end-to-end machine learning system:
+
+1. Data Collection
+2. SQL Data Extraction
+3. Data Cleaning
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Git Version Control
+8. Packaging and Deployment
+
+---
+
+# Data Analysis
+
+## Resource 1
+
+### Data Analytics for Beginners
+
+https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup#
+
+---
+
+## Week 1: Analytics Foundations
+
+### Topics
+
+* Getting Started with Analytics
+* Four Types of Analytics
+* Data Science Foundations
+* Business Analytics Applications
+
+### Project
+
+* Business Metrics Analysis
+
+---
+
+## Resource 2
+
+### Associate Data Analyst in SQL
+
+https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql
+
+---
+
+## Week 2: SQL Fundamentals
+
+### Topics
+
+* Introduction to SQL
+* Intermediate SQL
+* Joining Data in SQL
+
+### Project
+
+* Customer Database Analysis
+
+---
+
+## Week 3: Advanced SQL Analysis
+
+### Topics
+
+* Data Manipulation in SQL
+* Window Functions
+* PostgreSQL Functions
+* Exploratory Data Analysis in SQL
+
+### Project
+
+* Sales Performance Analysis
+
+---
+
+## Resource 3
+
+### Data Analyst Course
+
+https://www.simplilearn.com/free-data-analyst-course-skillup#
+
+---
+
+## Week 4: Dashboards & Reporting
+
+### Topics
+
+#### Excel
+
+* Data Analysis
+* Data Cleaning
+
+#### Tableau
+
+* Tableau Workspace
+* Charts
+* Maps
+
+#### Power BI
+
+* Data Handling
+* Dashboard Creation
+* Reporting
+
+#### Communication
+
+* Data Storytelling
+* Data-Driven Decision Making
+
+### Capstone Project
+
+Build an executive dashboard using:
+
+* Excel
+* Tableau
+* Power BI
+
+---
+
+# Expected Outcomes
+
+By the end of this roadmap, you should be able to:
+
+## Data Science
+
+* Write Python confidently
+* Manipulate data using pandas
+* Clean real-world datasets
+* Visualize data effectively
+* Perform statistical analysis
+* Build machine learning models
+* Use SQL for analytics
+* Use Git for version control
+
+## Deep Learning
+
+* Build neural networks
+* Train and evaluate models
+* Create reproducible pipelines
+* Handle missing and noisy data
+
+## Computer Vision
+
+* Prepare image datasets
+* Train CNNs
+* Optimize computer vision models
+* Deploy vision applications
+
+## Data Analysis
+
+* Query databases with SQL
+* Analyze business data
+* Create dashboards
+* Communicate insights effectively
+
+---
+
+# Portfolio Goal
+
+Complete at least **3–5 portfolio projects**:
+
+* Exploratory Data Analysis Project
+* Dashboard Project
+* Regression Project
+* Classification Project
+* Clustering Project
+
+Host all projects on GitHub with:
+
+* README documentation
+* Clean code
+* Visualizations
+* Business insights
+* Reproducible workflows
+
+This portfolio will provide a strong foundation for internships, freelance work, junior analyst roles, and entry-level data science positions.

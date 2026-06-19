@@ -1,5 +1,5 @@
 # DATA SCIENCE
-## Laptop/Desktop Users
+## Mobile Users
 
 ### Sandbox Environments
 Practice your code using these browser based platforms:
@@ -42,6 +42,8 @@ Practice your code using these browser based platforms:
 </ul>
 
 <hr>
+
+## Laptop/Desktop Users
 
 ### Resource Content: https://www.wqu.edu/data-science-lab
 #### Level: Beginner
